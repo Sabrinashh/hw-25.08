@@ -1,0 +1,90 @@
+.nav{
+    padding: 20px 0;
+    float: none;
+    position: fixed;
+    z-index: 9;
+}
+ul.menu li{
+    display: inline-block;
+    text-transform: uppercase;
+    margin-left: 25px;
+   font-size: 1.6ch;
+   font-family: sans-serif;
+  
+}
+ul.menu-2 li{
+    display: inline-block;
+    text-transform: uppercase;
+    margin-left: 25px;
+   font-size: 1.6ch;
+   font-family: sans-serif;
+   margin-top: 13px;
+  
+}
+.menu-text{
+    color: #abb7c4 !important;
+    text-decoration: none;
+}
+.nav .logo{
+    width: 10%;
+}
+.container{
+    width: 80%;
+    display: block;
+    margin: auto;
+}
+.float-left{
+    float: left;
+}
+.float-right{
+    float: right;
+}
+.w-100{
+    width: 100%;
+}
+.header-bg{
+    padding: 23em;
+    background-position: center;
+    background-size: 120%;
+    background-repeat: no-repeat;
+}
+.text-white{
+    color:white
+}
+.btn{
+    background-color: #dd003f;
+    padding: 13px 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: 250ms;
+    border: 0ch;
+    font-family:sans-serif;
+    margin-left: 7px;
+    color: white;
+
+}
+.inpt{
+    display: block;
+    width: 850px;
+   height: 39px;
+   margin-top: -250px;
+    background-color: #233a50;
+    border: 0.5ch solid black;
+    font-size: 1.8ch;
+    
+}
+.select{
+    display: block;
+    width:200px ;
+   height: 48px;
+   background-color: #233a50;
+   border: 0.5ch solid;
+   color: white;
+   border: solid black;
+   margin-top: -250px;
+   margin-left: -196px;
+   font-size: 2ch;
+}
+
